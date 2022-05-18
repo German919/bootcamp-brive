@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcwAU73AgSX5B3Pan33w+hDtzjqucOCrDzh0bmo5vu+aBdA2Rbz5wIWN4zgf5oG/r532DrAuWfV2isBs9GvRnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Porotito\\source\\repos\\Brive.Bootcamp.API\\Brive.Bootcamp.API\\Brive.Bootcamp.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Porotito\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Porotito\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Porotito\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Porotito\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Porotito\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Porotito\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
